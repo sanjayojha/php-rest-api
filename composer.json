@@ -1,0 +1,18 @@
+{
+    "name": "sanjayojha/php-rest-api",
+    "description": "Learning Rest API in PHP, the right way.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sanjayojha\\PhpRestApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sanjay"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
